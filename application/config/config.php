@@ -35,7 +35,7 @@ $config['base_url'] = 'http://200.100.0.37/cbci/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------
